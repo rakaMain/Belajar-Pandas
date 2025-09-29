@@ -1,151 +1,113 @@
-nama,pekerjaan,status
-Anwar Setiawan,Insinyur,menikah
-Fajar Wahyudi,Pelajar,menikah
-Agus Prasetya,Mahasiswa,menikah
-Eka Widodo,Dokter,menikah
-Xavier Arif,Pelajar,single
-Sinta Ramadhani,Insinyur,menikah
-Dewi Prasetya,Pelajar,menikah
-Dewi Sari,Guru,menikah
-Oki Yuliana,Pegawai Swasta,single
-Agus Wahyudi,Pegawai Swasta,single
-Fajar Nur,Insinyur,menikah
-Lina Saputra,Guru,menikah
-Anwar Lestari,PNS,menikah
-Gita Hadi,Pegawai Swasta,menikah
-Wawan Wahyudi,Mahasiswa,single
-Citra Nur,Pegawai Swasta,menikah
-Cahya Widodo,Wiraswasta,menikah
-Rudi Ramadhani,PNS,menikah
-Oki Nur,Wiraswasta,menikah
-Joko Hadi,Wiraswasta,single
-Budi Wahyudi,Mahasiswa,single
-Dewi Nur,Guru,menikah
-Vina Wahyudi,Wiraswasta,single
-Maya Prasetya,PNS,menikah
-Citra Sari,Pegawai Swasta,menikah
-Cahya Yuliana,Insinyur,menikah
-Hendra Arif,PNS,menikah
-Xavier Hadi,Pelajar,menikah
-Lina Setiawan,Pegawai Swasta,single
-Dian Yuliana,Mahasiswa,single
-Gita Wahyudi,Wiraswasta,single
-Zidan Nur,Insinyur,menikah
-Niko Wahyudi,Wiraswasta,menikah
-Budi Widodo,Mahasiswa,menikah
-Wawan Lestari,PNS,menikah
-Anwar Widodo,Pelajar,menikah
-Wawan Ramadhani,Pegawai Swasta,menikah
-Emil Lestari,PNS,menikah
-Rudi Prasetya,Pelajar,single
-Teguh Hadi,Dokter,single
-Sinta Arif,Wiraswasta,menikah
-Yulia Santoso,Pegawai Swasta,menikah
-Fajar Hadi,Pegawai Swasta,menikah
-Vina Prasetya,Pelajar,menikah
-Rudi Yuliana,Dokter,menikah
-Dewi Ramadhani,Insinyur,menikah
-Emil Wahyudi,Guru,menikah
-Lina Setiawan,Insinyur,single
-Cahya Setiawan,Pegawai Swasta,single
-Wawan Setiawan,Pegawai Swasta,menikah
-Budi Nur,Mahasiswa,single
-Vina Lestari,Pelajar,menikah
-Xavier Ramadhani,Dokter,single
-Niko Santoso,Guru,menikah
-Agus Hadi,Insinyur,single
-Wawan Sari,Pelajar,menikah
-Hendra Ramadhani,PNS,menikah
-Oki Arif,Mahasiswa,menikah
-Anwar Santoso,Dokter,menikah
-Wawan Ramadhani,Mahasiswa,single
-Lina Wahyudi,Pegawai Swasta,menikah
-Agus Wahyudi,Mahasiswa,menikah
-Lina Wahyudi,Guru,menikah
-Dian Sari,Pegawai Swasta,menikah
-Joko Setiawan,Insinyur,single
-Rudi Setiawan,Insinyur,menikah
-Gita Wahyudi,PNS,menikah
-Umi Putra,Pegawai Swasta,menikah
-Indah Setiawan,Pegawai Swasta,single
-Rudi Ramadhani,Dokter,single
-Dewi Widodo,Pegawai Swasta,menikah
-Gita Setiawan,Guru,menikah
-Citra Saputra,PNS,menikah
-Agus Ramadhani,Dokter,single
-Eka Nur,Guru,single
-Zidan Prasetya,Mahasiswa,single
-Dewi Setiawan,Insinyur,menikah
-Putri Wahyudi,PNS,single
-Citra Sari,Wiraswasta,single
-Sinta Sari,Insinyur,menikah
-Rudi Lestari,Pelajar,menikah
-Citra Ramadhani,Insinyur,menikah
-Cahya Hadi,Insinyur,menikah
-Rudi Wahyudi,Pegawai Swasta,menikah
-Emil Saputra,Guru,single
-Lina Arif,Pegawai Swasta,menikah
-Indah Lestari,Pegawai Swasta,menikah
-Wawan Putra,Wiraswasta,menikah
-Fajar Arif,Wiraswasta,single
-Joko Hadi,PNS,single
-Dewi Santoso,Pegawai Swasta,single
-Xavier Arif,Wiraswasta,single
-Yulia Santoso,Dokter,menikah
-Hendra Arif,Dokter,menikah
-Niko Prasetya,PNS,menikah
-Oki Prasetya,Dokter,menikah
-Bella Putra,PNS,menikah
-Oki Hadi,Pelajar,menikah
-Teguh Arif,Wiraswasta,single
-Putri Saputra,Pegawai Swasta,single
-Umi Putra,PNS,menikah
-Teguh Setiawan,PNS,menikah
-Indah Santoso,Guru,menikah
-Zidan Wahyudi,Pegawai Swasta,menikah
-Rudi Setiawan,Pelajar,menikah
-Sinta Saputra,Guru,menikah
-Dewi Setiawan,Wiraswasta,menikah
-Anwar Arif,Mahasiswa,menikah
-Fajar Lestari,Pegawai Swasta,menikah
-Anwar Lestari,Mahasiswa,menikah
-Lina Lestari,Pegawai Swasta,single
-Hendra Prasetya,Pelajar,menikah
-Dian Nur,Guru,menikah
-Bella Prasetya,PNS,single
-Emil Arif,Guru,single
-Citra Sari,Mahasiswa,single
-Xavier Setiawan,Pegawai Swasta,menikah
-Niko Putra,Insinyur,menikah
-Xavier Lestari,Wiraswasta,menikah
-Emil Ramadhani,PNS,menikah
-Rudi Arif,Mahasiswa,single
-Sinta Setiawan,Wiraswasta,menikah
-Hendra Arif,PNS,menikah
-Cahya Sari,Wiraswasta,menikah
-Indah Hadi,Pegawai Swasta,single
-Teguh Hadi,Pelajar,menikah
-Rudi Ramadhani,Mahasiswa,menikah
-Niko Putra,Dokter,menikah
-Sinta Ramadhani,Insinyur,menikah
-Hendra Prasetya,Dokter,single
-Indah Ramadhani,Mahasiswa,single
-Kiki Yuliana,PNS,menikah
-Hendra Setiawan,Mahasiswa,menikah
-Eka Ramadhani,Mahasiswa,single
-Eka Ramadhani,Pegawai Swasta,menikah
-Fajar Ramadhani,Guru,menikah
-Putri Lestari,Insinyur,menikah
-Xavier Prasetya,Pelajar,menikah
-Umi Lestari,Pelajar,single
-Teguh Ramadhani,Wiraswasta,menikah
-Eka Putra,Pelajar,single
-Hendra Wahyudi,Insinyur,menikah
-Vina Santoso,Wiraswasta,menikah
-Yulia Ramadhani,Wiraswasta,menikah
-Niko Prasetya,PNS,menikah
-Bella Nur,Guru,menikah
-Hendra Yuliana,Dokter,menikah
-Oki Putra,PNS,menikah
-Sinta Putra,Guru,menikah
-Teguh Prasetya,Guru,menikah
+nama,tempat_lahir,pekerjaan,status
+Fajar Wahyudi,Tegal,Freelancer,Nikah
+Eka Widodo,Cirebon,Pramusaji,Nikah
+Xavier Arif,Jakarta,Teknisi,Belum nikah
+Sinta Ramadhani,Yogyakarta,Programmer,Belum nikah
+Dewi Prasetya,Bogor,Perawat,Nikah
+Dewi Sari,Bandung,Perawat,Nikah
+Oki Yuliana,Kediri,Wiraswasta,Belum nikah
+Agus Wahyudi,Bekasi,Guru,Nikah
+Lina Saputra,Kediri,Programmer,Nikah
+Anwar Lestari,Cilegon,Karyawan Swasta,Nikah
+Gita Hadi,Salatiga,Pramusaji,Belum nikah
+Wawan Wahyudi,Jakarta,Guru,Nikah
+Citra Nur,Bogor,Pramusaji,Nikah
+Rudi Ramadhani,Yogyakarta,Tenaga Penjual,Belum nikah
+Oki Nur,Madiun,Guru,Belum nikah
+Joko Hadi,Semarang,Teknisi,Nikah
+Budi Wahyudi,Bekasi,Tenaga Penjual,Belum nikah
+Dewi Nur,Cirebon,Wiraswasta,Belum nikah
+Vina Wahyudi,Jakarta,Perawat,Belum nikah
+Cahya Yuliana,Cilegon,Karyawan Swasta,Nikah
+Hendra Arif,Surakarta,Tenaga Penjual,Nikah
+Xavier Hadi,Jakarta,Tenaga Penjual,Belum nikah
+Lina Setiawan,Malang,Karyawan Swasta,Nikah
+Dian Yuliana,Serang,Pramusaji,Belum nikah
+Gita Wahyudi,Salatiga,Guru,Nikah
+Zidan Nur,Jakarta,Pramusaji,Nikah
+Niko Wahyudi,Kediri,Karyawan Swasta,Nikah
+Budi Widodo,Bandung,Wiraswasta,Belum nikah
+Wawan Ramadhani,Jakarta,Guru,Nikah
+Emil Lestari,Tangerang,Wiraswasta,Belum nikah
+Rudi Prasetya,Yogyakarta,Teknisi,Nikah
+Teguh Hadi,Yogyakarta,Tenaga Penjual,Belum nikah
+Yulia Santoso,Jakarta,Wiraswasta,Belum nikah
+Fajar Hadi,Tegal,Tenaga Penjual,Belum nikah
+Rudi Yuliana,Yogyakarta,Wiraswasta,Nikah
+Emil Wahyudi,Cilegon,Wiraswasta,Belum nikah
+Lina Setiawan,Madiun,Perawat,Nikah
+Cahya Setiawan,Serang,Pramusaji,Belum nikah
+Wawan Setiawan,Jakarta,Wiraswasta,Belum nikah
+Budi Nur,Bandung,Freelancer,Nikah
+Vina Lestari,Jakarta,Customer Service,Belum nikah
+Xavier Ramadhani,Jakarta,Customer Service,Nikah
+Niko Santoso,Kediri,Perawat,Nikah
+Agus Hadi,Cirebon,Guru,Belum nikah
+Hendra Ramadhani,Surakarta,Teknisi,Belum nikah
+Oki Arif,Madiun,Tenaga Penjual,Belum nikah
+Anwar Santoso,Tangerang,Perawat,Nikah
+Lina Wahyudi,Kediri,Freelancer,Nikah
+Agus Wahyudi,Depok,Karyawan Swasta,Belum nikah
+Lina Wahyudi,Kediri,Wiraswasta,Belum nikah
+Joko Setiawan,Magelang,Customer Service,Belum nikah
+Gita Wahyudi,Semarang,Guru,Belum nikah
+Umi Putra,Yogyakarta,Guru,Nikah
+Indah Setiawan,Surakarta,Guru,Nikah
+Rudi Ramadhani,Yogyakarta,Pramusaji,Belum nikah
+Gita Setiawan,Surakarta,Karyawan Swasta,Nikah
+Citra Saputra,Cirebon,Karyawan Swasta,Belum nikah
+Agus Ramadhani,Bekasi,Freelancer,Belum nikah
+Eka Nur,Bogor,Guru,Nikah
+Dewi Setiawan,Cirebon,Tenaga Penjual,Nikah
+Putri Wahyudi,Yogyakarta,Guru,Nikah
+Sinta Sari,Yogyakarta,Guru,Belum nikah
+Citra Ramadhani,Bekasi,Customer Service,Belum nikah
+Rudi Wahyudi,Yogyakarta,Wiraswasta,Belum nikah
+Emil Saputra,Serang,Perawat,Belum nikah
+Indah Lestari,Semarang,Perawat,Nikah
+Wawan Putra,Jakarta,Guru,Nikah
+Fajar Arif,Semarang,Programmer,Belum nikah
+Xavier Arif,Jakarta,Freelancer,Nikah
+Yulia Santoso,Jakarta,Customer Service,Belum nikah
+Hendra Arif,Tegal,Teknisi,Nikah
+Oki Prasetya,Malang,Perawat,Belum nikah
+Bella Putra,Serang,Perawat,Belum nikah
+Oki Hadi,Banyuwangi,Programmer,Nikah
+Teguh Arif,Yogyakarta,Guru,Belum nikah
+Putri Saputra,Yogyakarta,Freelancer,Belum nikah
+Umi Putra,Yogyakarta,Karyawan Swasta,Belum nikah
+Teguh Setiawan,Yogyakarta,Teknisi,Belum nikah
+Indah Santoso,Tegal,Programmer,Belum nikah
+Zidan Wahyudi,Jakarta,Karyawan Swasta,Belum nikah
+Rudi Setiawan,Yogyakarta,Programmer,Nikah
+Sinta Saputra,Yogyakarta,Perawat,Nikah
+Dewi Setiawan,Cirebon,Wiraswasta,Belum nikah
+Anwar Arif,Cilegon,Teknisi,Belum nikah
+Lina Lestari,Madiun,Perawat,Nikah
+Hendra Prasetya,Tegal,Teknisi,Nikah
+Dian Nur,Cilegon,Wiraswasta,Nikah
+Bella Prasetya,Cilegon,Tenaga Penjual,Nikah
+Emil Arif,Serang,Tenaga Penjual,Nikah
+Citra Sari,Depok,Wiraswasta,Belum nikah
+Xavier Setiawan,Jakarta,Freelancer,Belum nikah
+Niko Putra,Malang,Freelancer,Nikah
+Xavier Lestari,Jakarta,Tenaga Penjual,Nikah
+Emil Ramadhani,Tangerang,Pramusaji,Belum nikah
+Sinta Setiawan,Yogyakarta,Pramusaji,Nikah
+Hendra Arif,Magelang,Customer Service,Belum nikah
+Cahya Sari,Serang,Pramusaji,Nikah
+Teguh Hadi,Yogyakarta,Teknisi,Nikah
+Sinta Ramadhani,Yogyakarta,Wiraswasta,Belum nikah
+Indah Ramadhani,Tegal,Tenaga Penjual,Belum nikah
+Kiki Yuliana,Malang,Customer Service,Belum nikah
+Eka Ramadhani,Bekasi,Customer Service,Nikah
+Eka Ramadhani,Depok,Freelancer,Nikah
+Xavier Prasetya,Jakarta,Freelancer,Belum nikah
+Umi Lestari,Yogyakarta,Karyawan Swasta,Belum nikah
+Eka Putra,Bandung,Wiraswasta,Nikah
+Vina Santoso,Jakarta,Perawat,Belum nikah
+Yulia Ramadhani,Jakarta,Perawat,Belum nikah
+Niko Prasetya,Malang,Teknisi,Belum nikah
+Bella Nur,Serang,Teknisi,Nikah
+Oki Putra,Madiun,Programmer,Nikah
+Sinta Putra,Yogyakarta,Guru,Belum nikah
