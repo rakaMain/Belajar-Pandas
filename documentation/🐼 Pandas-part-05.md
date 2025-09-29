@@ -193,6 +193,7 @@ mie.columns = ['Nama','Tipe_mie','terjual','Harga']
 
 
 - **Catatan:** Pastikan jumlah nama cocok dengan jumlah kolom.
+
     
 
 
